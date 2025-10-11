@@ -13,6 +13,13 @@
       "tags": []
     },
     {
+      "id": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+      "name": "実写合成ミュージアム-RealPhotoFusionMuseum",
+      "tags": [
+        "photo"
+      ]
+    },
+    {
       "id": "wrld_08224159-9d4e-4fe8-991f-4904d17d9969",
       "name": "Lunar Capital",
       "tags": [
@@ -35,6 +42,23 @@
       "tags": [
         "exhibition"
       ]
+    },
+    {
+      "id": "wrld_316f7c49-d8c1-44c4-86b0-c9f7554e2626",
+      "name": "銀河鉄道~Charlotte's Dramatic Train 01",
+      "tags": [
+        "space"
+      ]
+    },
+    {
+      "id": "wrld_317d7b78-5bf7-4c53-ad06-65d1608cb1b1",
+      "name": "Sky Lanterns",
+      "tags": []
+    },
+    {
+      "id": "wrld_3448f7e4-79a7-4115-a44c-e6221174969f",
+      "name": "MEROOM 336号室",
+      "tags": []
     },
     {
       "id": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e",
@@ -61,6 +85,22 @@
       "name": "Amebient",
       "tags": [
         "rain"
+      ]
+    },
+    {
+      "id": "wrld_511d8efe-b233-4ffa-af92-846370aa0f47",
+      "name": "Sailing Legacy",
+      "tags": [
+        "puzzle",
+        "sea"
+      ]
+    },
+    {
+      "id": "wrld_529dbcdc-a5af-48bb-bc6c-edb42d7ab3ec",
+      "name": "Sailing ＆ Boating 2․0",
+      "tags": [
+        "puzzle",
+        "sea"
       ]
     },
     {
@@ -93,7 +133,9 @@
     {
       "id": "wrld_76be4bb1-1146-4444-ba42-1d180e162cc6",
       "name": "作業場わくわくビート",
-      "tags": []
+      "tags": [
+        "workspace"
+      ]
     },
     {
       "id": "wrld_795ddf7d-c059-442b-8108-6294b6dfdc2a",
@@ -110,6 +152,18 @@
       ]
     },
     {
+      "id": "wrld_853d576e-7bde-4071-8f2a-27aa5980a45f",
+      "name": "OceanFuji3",
+      "tags": [
+        "sea"
+      ]
+    },
+    {
+      "id": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
+      "name": "nagisa no machi",
+      "tags": []
+    },
+    {
       "id": "wrld_93fbc503-bc5b-4bc3-a4f7-7d289dc82740",
       "name": "Break the Glass ǃ",
       "tags": []
@@ -119,6 +173,13 @@
       "name": "Exhibition˸ 1٪ of Virtuality",
       "tags": [
         "exhibition"
+      ]
+    },
+    {
+      "id": "wrld_99e1c98b-4b46-40d9-998d-cb0be3f62a39",
+      "name": "The Majesty",
+      "tags": [
+        "sea"
       ]
     },
     {
@@ -144,6 +205,11 @@
       "tags": [
         "avatar"
       ]
+    },
+    {
+      "id": "wrld_a7464c28-ebaf-4463-994e-4e13f6144a0f",
+      "name": "消えたあなたと‚ 止まっている春が-Spring and you",
+      "tags": []
     },
     {
       "id": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
@@ -218,6 +284,13 @@
       ]
     },
     {
+      "id": "wrld_d75eb498-b5fa-42c9-aed4-1ae251f613ee",
+      "name": "Chinatown",
+      "tags": [
+        "eastasian"
+      ]
+    },
+    {
       "id": "wrld_dae998ae-ae72-456a-b228-980b0e0775e0",
       "name": "Exhibition˸ The day before the Summer begins․",
       "tags": [
@@ -237,6 +310,11 @@
       "tags": []
     },
     {
+      "id": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+      "name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+      "tags": []
+    },
+    {
       "id": "wrld_f5a298f6-83e6-45ee-be58-4fafbbd38139",
       "name": "Shader Fes 2019",
       "tags": [
@@ -249,6 +327,11 @@
       "tags": [
         "sea"
       ]
+    },
+    {
+      "id": "wrld_f97a1f4c-daf1-4b12-88d4-25c14516b7a7",
+      "name": "ヴァリアライド-Varea'Ride-",
+      "tags": []
     }
   ]
 }

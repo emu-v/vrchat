@@ -44,6 +44,13 @@
       ]
     },
     {
+      "id": "wrld_2932163e-3d20-4b9a-ab68-16d9f5206537",
+      "name": "Celestia",
+      "tags": [
+        "space"
+      ]
+    },
+    {
       "id": "wrld_316f7c49-d8c1-44c4-86b0-c9f7554e2626",
       "name": "銀河鉄道~Charlotte's Dramatic Train 01",
       "tags": [
@@ -53,6 +60,11 @@
     {
       "id": "wrld_317d7b78-5bf7-4c53-ad06-65d1608cb1b1",
       "name": "Sky Lanterns",
+      "tags": []
+    },
+    {
+      "id": "wrld_3380ca07-2b6f-430e-a9b4-e3ee72f175af",
+      "name": "Yamanote Line E235",
       "tags": []
     },
     {
@@ -73,6 +85,13 @@
       "tags": []
     },
     {
+      "id": "wrld_3e0ba06a-e556-4826-a65b-dc2d2c7fff15",
+      "name": "月下の縁側～The Moonlight Balcony～",
+      "tags": [
+        "eastasian"
+      ]
+    },
+    {
       "id": "wrld_3fa149a0-20ee-417c-a3c3-b9fa04758cb7",
       "name": "mio3io Avatar World",
       "tags": [
@@ -86,6 +105,11 @@
         "exhibition",
         "photo"
       ]
+    },
+    {
+      "id": "wrld_48abf76b-a81e-43a7-bdc0-cbd314384aae",
+      "name": "Eternal Ash",
+      "tags": []
     },
     {
       "id": "wrld_4e8f3e44-dca9-4ae7-9580-954bb4b2cbc4",
@@ -111,6 +135,13 @@
       ]
     },
     {
+      "id": "wrld_54e86fa9-b6f1-4b34-aaa4-86db51e270be",
+      "name": "Underwater Cave at Night",
+      "tags": [
+        "sea"
+      ]
+    },
+    {
       "id": "wrld_5aa33ce6-ad82-4337-a4fb-f7b9b3ce0435",
       "name": "Pause - Virtual DRUG",
       "tags": [
@@ -124,6 +155,11 @@
         "science",
         "space"
       ]
+    },
+    {
+      "id": "wrld_668e8d21-79a0-4ee5-a2cf-3b5f371a92bf",
+      "name": "Light Aquarium",
+      "tags": []
     },
     {
       "id": "wrld_6c6dae9a-b166-49fd-9410-737fc8c1c3fe",
@@ -166,6 +202,20 @@
       ]
     },
     {
+      "id": "wrld_85c49af8-389b-4089-adfe-f17b002e025e",
+      "name": "VRC World Bakers Lab",
+      "tags": [
+        "exhibition"
+      ]
+    },
+    {
+      "id": "wrld_8ab076f5-e5b1-4369-9c14-4fe492a93e45",
+      "name": "Underwater Cave",
+      "tags": [
+        "sea"
+      ]
+    },
+    {
       "id": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
       "name": "nagisa no machi",
       "tags": []
@@ -187,6 +237,13 @@
       "name": "The Majesty",
       "tags": [
         "sea"
+      ]
+    },
+    {
+      "id": "wrld_9a51b365-d6cc-42e6-901a-54ceb46b94ef",
+      "name": "Super Tower Defense",
+      "tags": [
+        "game"
       ]
     },
     {
@@ -284,6 +341,14 @@
       "tags": []
     },
     {
+      "id": "wrld_d141fbfd-9640-4c8e-afb1-027685ea68dd",
+      "name": "What Is Virtual Art - Volume 1",
+      "tags": [
+        "eastasian",
+        "exhibition"
+      ]
+    },
+    {
       "id": "wrld_d660a3ad-a92c-45e8-a3fa-1ff8a4de6bd0",
       "name": "lain's room",
       "tags": [
@@ -333,6 +398,13 @@
       "name": "Deep Blue",
       "tags": [
         "sea"
+      ]
+    },
+    {
+      "id": "wrld_f8622be7-a256-48bb-9c2c-79aa2201484f",
+      "name": "Overview Effect Experience",
+      "tags": [
+        "space"
       ]
     },
     {

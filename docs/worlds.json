@@ -15,6 +15,11 @@
       ]
     },
     {
+      "id": "wrld_070ff8cb-a49d-425e-8ef9-954bfb297952",
+      "name": "FuwaMocoRoom",
+      "tags": []
+    },
+    {
       "id": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
       "name": "実写合成ミュージアム-RealPhotoFusionMuseum",
       "tags": [
@@ -34,6 +39,13 @@
       "name": "［v7］だらけスタートルーム ⁄ The Lazy Log-in Room",
       "tags": [
         "chill"
+      ]
+    },
+    {
+      "id": "wrld_10dc4379-e925-4b64-b347-9fe552e2fd4a",
+      "name": "Chasing Stars",
+      "tags": [
+        "space"
       ]
     },
     {
@@ -193,6 +205,13 @@
       ]
     },
     {
+      "id": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
+      "name": "夏の忘れ物",
+      "tags": [
+        "summer"
+      ]
+    },
+    {
       "id": "wrld_795ddf7d-c059-442b-8108-6294b6dfdc2a",
       "name": "アスタリスクの花言葉",
       "tags": [
@@ -338,6 +357,14 @@
       ]
     },
     {
+      "id": "wrld_c3cf550b-b987-45ef-8b96-cc61fa6c2fde",
+      "name": "Steps of Time ⁄ 時間の階段",
+      "tags": [
+        "eastasian",
+        "summer"
+      ]
+    },
+    {
       "id": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
       "name": "Tiny Life Room",
       "tags": []
@@ -438,6 +465,13 @@
       "name": "ヴァリアライド-Varea'Ride-",
       "tags": [
         "attraction"
+      ]
+    },
+    {
+      "id": "wrld_ff414a30-31e3-44bb-9c8e-3d721e895b0b",
+      "name": "Complex 7",
+      "tags": [
+        "cyber"
       ]
     }
   ]

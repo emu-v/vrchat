@@ -1,6 +1,14 @@
 {
   "worlds": [
     {
+      "id": "wrld_01543f8c-87c1-4267-9006-4884cdd864fd",
+      "name": "KEK教育加速器ーメタバース博物館（MAM）展示室",
+      "tags": [
+        "exhibition",
+        "science"
+      ]
+    },
+    {
       "id": "wrld_057ed75d-4915-455b-aee1-39a4f4e76ca3",
       "name": "Deep Blue Night",
       "tags": [
@@ -219,6 +227,14 @@
       ]
     },
     {
+      "id": "wrld_7db11376-c47a-42cb-8e02-3b42751bd40d",
+      "name": "たゆたうしろかげ",
+      "tags": [
+        "chill",
+        "sea"
+      ]
+    },
+    {
       "id": "wrld_7f502381-47d0-4883-8d67-9111f4dd4095",
       "name": "Echo ˸ Winter",
       "tags": [
@@ -252,6 +268,14 @@
       "name": "nagisa no machi",
       "tags": [
         "eastasian"
+      ]
+    },
+    {
+      "id": "wrld_90d08aeb-eaf4-4279-a764-166517672b94",
+      "name": "メタバース加速器博物館 （MAM） 玄関ホール",
+      "tags": [
+        "exhibition",
+        "science"
       ]
     },
     {

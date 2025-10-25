@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[59042,["/vrchat/_next/static/chunks/0f31e8e151f17cc3.js"],"default"]
-4:I[15461,["/vrchat/_next/static/chunks/abb2f71ced3db1c5.js","/vrchat/_next/static/chunks/68688b2ecd5ea8f0.js"],"OutletBoundary"]
-0:{"buildId":"fXxa_RnlrMF1bUYnpyex1","rsc":["$","$1","c",{"children":[["$","div",null,{"children":["$","$2",null,{"fallback":["$","div",null,{"children":"Loading..."}],"children":["$","$L3",null,{}]}]}],[["$","script","script-0",{"src":"/vrchat/_next/static/chunks/0f31e8e151f17cc3.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+3:I[59042,["/vrchat/_next/static/chunks/5f139860d1e4f4e5.js"],"default"]
+4:I[79055,["/vrchat/_next/static/chunks/8eab5c2b9edc6fd1.js","/vrchat/_next/static/chunks/275201be855ed294.js"],"OutletBoundary"]
+0:{"buildId":"V6I5rCCs19N0e2L40vuf4","rsc":["$","$1","c",{"children":[["$","div",null,{"children":["$","$2",null,{"fallback":["$","div",null,{"children":"Loading..."}],"children":["$","$L3",null,{}]}]}],[["$","script","script-0",{"src":"/vrchat/_next/static/chunks/5f139860d1e4f4e5.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null

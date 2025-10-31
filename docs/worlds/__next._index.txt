@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[14537,["/vrchat/_next/static/chunks/8eab5c2b9edc6fd1.js","/vrchat/_next/static/chunks/275201be855ed294.js"],"default"]
-3:I[37959,["/vrchat/_next/static/chunks/8eab5c2b9edc6fd1.js","/vrchat/_next/static/chunks/275201be855ed294.js"],"default"]
+2:I[55169,["/vrchat/_next/static/chunks/c89422c0c7e06d0e.js","/vrchat/_next/static/chunks/eb5b6f4e53980395.js"],"default"]
+3:I[71214,["/vrchat/_next/static/chunks/c89422c0c7e06d0e.js","/vrchat/_next/static/chunks/eb5b6f4e53980395.js"],"default"]
 :HL["/vrchat/_next/static/chunks/b8cd0167030ab895.css","style"]
-0:{"buildId":"V6I5rCCs19N0e2L40vuf4","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vrchat/_next/static/chunks/b8cd0167030ab895.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","div",null,{"children":"Not Found Page"}],[]]}]}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"MLx1CtKrImLK4UwShqdgj","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vrchat/_next/static/chunks/b8cd0167030ab895.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","div",null,{"children":"Not Found Page"}],[]]}]}]}]]}],"loading":null,"isPartial":false}

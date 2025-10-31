@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[79055,["/vrchat/_next/static/chunks/8eab5c2b9edc6fd1.js","/vrchat/_next/static/chunks/275201be855ed294.js"],"OutletBoundary"]
+2:I[82185,["/vrchat/_next/static/chunks/c89422c0c7e06d0e.js","/vrchat/_next/static/chunks/eb5b6f4e53980395.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"V6I5rCCs19N0e2L40vuf4","rsc":["$","$1","c",{"children":[["$","div",null,{"children":"Not Found Page"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"MLx1CtKrImLK4UwShqdgj","rsc":["$","$1","c",{"children":[["$","div",null,{"children":"Not Found Page"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null

@@ -2,5 +2,5 @@
 2:"$Sreact.suspense"
 3:I[59042,["/vrchat/_next/static/chunks/8e680f7baed33888.js"],"default"]
 4:I[35475,["/vrchat/_next/static/chunks/1d864bee5f6c5f84.js","/vrchat/_next/static/chunks/625954a02562bcbf.js"],"OutletBoundary"]
-0:{"buildId":"ECpZpbIoQC1imdAwUb7iC","rsc":["$","$1","c",{"children":[["$","div",null,{"children":["$","$2",null,{"fallback":["$","div",null,{"children":"Loading..."}],"children":["$","$L3",null,{}]}]}],[["$","script","script-0",{"src":"/vrchat/_next/static/chunks/8e680f7baed33888.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"ot-tL2RHM1OJtmyKrnxVo","rsc":["$","$1","c",{"children":[["$","div",null,{"children":["$","$2",null,{"fallback":["$","div",null,{"children":"Loading..."}],"children":["$","$L3",null,{}]}]}],[["$","script","script-0",{"src":"/vrchat/_next/static/chunks/8e680f7baed33888.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null

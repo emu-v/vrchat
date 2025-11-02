@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[55169,["/vrchat/_next/static/chunks/c89422c0c7e06d0e.js","/vrchat/_next/static/chunks/eb5b6f4e53980395.js"],"default"]
-3:I[71214,["/vrchat/_next/static/chunks/c89422c0c7e06d0e.js","/vrchat/_next/static/chunks/eb5b6f4e53980395.js"],"default"]
-0:{"buildId":"MLx1CtKrImLK4UwShqdgj","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[98438,["/vrchat/_next/static/chunks/1d864bee5f6c5f84.js","/vrchat/_next/static/chunks/625954a02562bcbf.js"],"default"]
+3:I[84468,["/vrchat/_next/static/chunks/1d864bee5f6c5f84.js","/vrchat/_next/static/chunks/625954a02562bcbf.js"],"default"]
+0:{"buildId":"ECpZpbIoQC1imdAwUb7iC","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

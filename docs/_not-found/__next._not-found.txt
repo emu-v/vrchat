@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[98438,["/vrchat/_next/static/chunks/1d864bee5f6c5f84.js","/vrchat/_next/static/chunks/625954a02562bcbf.js"],"default"]
 3:I[84468,["/vrchat/_next/static/chunks/1d864bee5f6c5f84.js","/vrchat/_next/static/chunks/625954a02562bcbf.js"],"default"]
-0:{"buildId":"ot-tL2RHM1OJtmyKrnxVo","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"1NVKhR48Po12ht-1nhhgA","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
